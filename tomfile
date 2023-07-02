@@ -1,0 +1,2 @@
+From hshar/webapp
+ADD ./index.html /war/www/html
